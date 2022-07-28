@@ -25,10 +25,10 @@ spec:
         - name: Vless_UUID
           value: "2cc15b63-be56-427f-9e4a-1f7976dc00f5"
         - name: Vless_Path
-          value: "/vlc4111"
+          value: "/vlc411"
         - name: Vmess_UUID
           value: "2cc15b63-be56-427f-9e4a-1f7976dc00f5"
         - name: Vmess_Path
-          value: "/vmc4111"
+          value: "/vmc411"
         - name: Share_Path
           value: "/v2link"
